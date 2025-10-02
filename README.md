@@ -24,7 +24,6 @@ A complete **turn-key system**—sensors, timing & sync unit, power/comms integr
 ## Use Cases
 Counter-UAS (e.g., Shahed136-class), gap-filling air picture, range safety, perimeter airspace monitoring.
 
-*VBRS-20 = 20 m vertical baseline reference configuration.*
 *VBRS-40 = 40 m vertical baseline reference configuration.*
 
 
@@ -54,5 +53,5 @@ Counter-UAS (e.g., Shahed136-class), gap-filling air picture, range safety, peri
 ## Сфери застосування
 Протидія БпЛА (напр., клас **Shahed-136**), заповнення прогалин повітряної обстановки, безпека полігонів, моніторинг периметра повітряного простору.
 
-*VBRS-20 = еталонна конфігурація з вертикальною базою 20 м. VBRS-40 = еталонна конфігурація з вертикальною базою 40 м.*
+*VBRS-40 = еталонна конфігурація з вертикальною базою 40 м.*
 
