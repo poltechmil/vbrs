@@ -27,7 +27,7 @@ Counter-UAS (e.g., Shahed136-class), gap-filling air picture, range safety, peri
 *VBRS-40 = 40 m vertical baseline reference configuration.*
 
 
-# VBRS — Радарна система з вертикальною базою (Vertical Baseline Radar System)
+# VBRS — Радарна система з вертикальною базою (Vertical Baseline Radar System) [концепція]
 
 **3-D супровід без GNSS від двох синхронізованих 2-D радарів.**  
 Синхронізація ґрунтується на **опорному атомному годиннику (Rb/CSAC)** з **10 МГц, розподіленими по волокну**, і детермінованими апаратними тригерами, що забезпечує **субмікросекундне** вирівнювання між сенсорами для когерентної обробки та надійної оцінки висоти.
