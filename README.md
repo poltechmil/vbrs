@@ -1,4 +1,4 @@
-# VBRS — Vertical Baseline Radar System
+# VBRS — Vertical Baseline Radar System [concept]
 
 **GNSS-free 3-D tracking from two synchronized 2-D radars.**  
 Timing is anchored by an **atomic clock reference (Rb/CSAC)** with **fiber-distributed 10 MHz** and deterministic hardware triggers, maintaining **sub-µs** inter-sensor alignment for coherent processing and reliable altitude estimation.
