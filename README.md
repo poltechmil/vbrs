@@ -1,7 +1,6 @@
 # VBRS — Vertical Baseline Radar System [concept]
 
 **GNSS-free 3-D tracking from two synchronized 2-D radars.**  
-Timing is anchored by an **atomic clock reference (Rb/CSAC)** with **fiber-distributed 10 MHz** and deterministic hardware triggers, maintaining **sub-µs** inter-sensor alignment for coherent processing and reliable altitude estimation.
 
 ## Key Specs (baseline VBRS-40)
 - **Range:** ~20 km  
@@ -30,7 +29,6 @@ Counter-UAS (e.g., Shahed136-class), gap-filling air picture, range safety, peri
 # VBRS — Радарна система з вертикальною базою (Vertical Baseline Radar System) [концепція]
 
 **3-D супровід без GNSS від двох синхронізованих 2-D радарів.**  
-Синхронізація ґрунтується на **опорному атомному годиннику (Rb/CSAC)** з **10 МГц, розподіленими по волокну**, і детермінованими апаратними тригерами, що забезпечує **субмікросекундне** вирівнювання між сенсорами для когерентної обробки та надійної оцінки висоти.
 
 ## Ключові характеристики (базова конфігурація VBRS-40)
 - **Дальність:** ~20 км  
