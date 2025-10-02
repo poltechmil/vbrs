@@ -22,6 +22,7 @@ A complete **turn-key system**—sensors, timing & sync unit, power/comms integr
 - Dev Kit (lab/POC) vs. Field System (deployable)
 
 ## Use Cases
-Counter-UAS (e.g., Shahed-class), gap-filling air picture, range safety, perimeter airspace monitoring.
+Counter-UAS (e.g., Shahed136-class), gap-filling air picture, range safety, perimeter airspace monitoring.
 
-*VBRS-40 System = 40 m vertical baseline reference configuration.*
+*VBRS-20 = 20 m vertical baseline reference configuration.*
+*VBRS-40 = 40 m vertical baseline reference configuration.*
